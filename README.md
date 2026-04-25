@@ -1,4 +1,4 @@
-# diabetic_retinopathy
+# detect diabetic_retinopathy Machine learning
 Detects Diabetic Retinopathy from Ultra-wide Field (UWF) Imaging
 
 
