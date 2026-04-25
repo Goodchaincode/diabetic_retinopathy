@@ -68,5 +68,4 @@ Features:
     • Hybrid AI Framework: Combines Deep Learning (CNN) for feature detection with Machine Learning (SVM) for robust classification.
     • Clinical Feature Enhancement: Uses Gaussian filters to make microaneurysms and hemorrhages more visible to the model.
     • Imbalance Correction: Integrated SMOTE and data augmentation to ensure high accuracy even for rare, severe cases.
-
     • Real-time Inference: Provides instantaneous screening results via a shareable web-based URL.
