@@ -58,7 +58,7 @@ def predict_dr_severity(input_image, cnn_model, svm_model):
     confidence = svm_model.predict_proba(feature_vector)
     return prediction, confidence
 
-    Code Impletation
+#    Code Impletation
 1. Image Preprocessing and Feature Extraction
 2. Training with SVM and Data Balancing (SMOTE)
 3. Web Interface Implementation (Gradio)
